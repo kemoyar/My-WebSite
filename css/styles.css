@@ -1,0 +1,194 @@
+body{
+    background-color: white;
+    margin: 0px;
+    
+}
+img{
+   width: 300px;
+  border-radius: 100%;
+}
+
+h1 {
+    font-size: 90px;
+    font-family: 'Lobster',
+    cursive;
+    margin-top: 50px;
+     color: #66BFBF;
+}
+a{
+
+color:#11999E;
+margin: 10px 20px;
+font-family: 'Merriweather',
+serif;
+text-decoration: none;
+
+
+}
+a:hover{
+
+    color: #EAF6F6;
+
+}
+
+p{
+
+  font-family: 'Merriweather',
+  serif;
+ 
+
+}
+h2{
+font-size: 2.5rem;
+font-family: 'Russo One',
+sans-serif;
+
+color: #66BFBF;
+
+}
+h3{
+
+color: #11999E;
+
+
+}
+hr{
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EAF6F6;
+    
+    width: 5%;
+    border-width:10px;
+
+}
+
+.top-container{
+
+    background-color: #69779b;
+    text-align: center;
+    padding-top: 100px; 
+    
+    
+   
+    
+
+}
+
+
+.middle-container{
+
+    text-align: center;
+   
+}
+
+.bottom-container {
+    margin: 0;
+    text-align: center;
+    background-color: #66BFBF;
+    padding-top: 30px;
+    size: 200px;
+    
+}
+.top-cloud{
+
+position: absolute;
+right: 300px;
+top: 50px;
+width:200px;
+border-radius: 0%;
+
+}
+.bot-cloud{
+
+position: absolute;
+left: 300px;
+width: 200px;
+border-radius: 0%;
+
+}
+.biggest{
+    color: #66BFBF;
+   size: 1000px;
+    margin: 50px auto 0 auto;
+}
+.big-mountain{
+
+    width: 650px;
+    border-radius: 0%;
+}
+.bigger{
+
+    font-weight: normal;
+}
+.skill-row{
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1
+    
+    
+}
+.prog{
+
+    width: 25%;
+    float: left;
+}
+.game{
+
+    width: 25%;
+    float: right;
+}
+.words-1{
+
+    padding-left: 200px;
+}
+.words-2{
+
+    padding-right:200px;
+}
+.pro{
+
+    padding-left: 200px;
+}
+.gm{
+
+padding-right: 200px; 
+}
+.credits{
+    
+    color: #EAF6F6;
+    font-size: 15px;
+    margin: 0;
+    height: 100px;
+    padding-top: 50px;
+}
+.contact-me{
+
+    margin: 100px 0 100px 0;
+}
+.myButton {
+    -moz-box-shadow: inset 0px 39px 0px -24px #e67a73;
+    -webkit-box-shadow: inset 0px 39px 0px -24px #e67a73;
+    box-shadow: inset 0px 39px 0px -24px #e67a73;
+    background-color: #e4685d;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Verdana;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 13px 19px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #b23e35;
+}
+
+.myButton:hover {
+    background-color: #eb675e;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
